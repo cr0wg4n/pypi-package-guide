@@ -18,7 +18,7 @@ class Test(unittest.TestCase):
         phraser = Phraser()
         phrase = phraser.get_random_phrase()
         print('\n', phrase, '\n')
-        self.assertGreater(len(phrase), 19990)        
+        self.assertGreater(len(phrase), 0)        
 
 if __name__ == "__main__":
     unittest.main()
