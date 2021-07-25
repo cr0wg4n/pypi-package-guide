@@ -69,7 +69,7 @@ Linkedin: [cr0wg4n](https://www.linkedin.com/in/cr0wg4n/)
 
 Install some dependencies to build your package:
 ```bash
-pip install sdist setuptools twine
+pip install -U sdist twine setuptools wheel build
 ```
 
 
