@@ -1,4 +1,4 @@
-from pypi_package_template import Phraser
+from pypi_package_guide import Phraser
 import unittest 
 
 class Test(unittest.TestCase):

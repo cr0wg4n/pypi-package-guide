@@ -1,8 +1,8 @@
 
-# PyPI Package Template
+# PyPI Package Guide
 
-[![Supported Versions](https://img.shields.io/pypi/pyversions/kibana-api.svg)](https://pypi.org/project/kibana-api/)
-[![Downloads](https://pepy.tech/badge/kibana-api/month)](https://pepy.tech/project/kibana-api/)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/pypi-package-guide.svg)](https://pypi.org/project/pypi-package-guide/)
+[![Downloads](https://pepy.tech/badge/pypi-package-guide/month)](https://pepy.tech/project/pypi-package-guide/)
 
 ## Requirements
  * Python >= 3.6
@@ -14,7 +14,7 @@
 
 ## Installation
 
-You can find this package at https://pypi.org/project/pypi-package-template
+You can find this package at https://pypi.org/project/pypi-package-guide
 
 ```bash
 pip install pypi-package-template
