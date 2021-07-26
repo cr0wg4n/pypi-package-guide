@@ -1,6 +1,6 @@
 import os
 import random
-
+import requests
 class Phraser():
     def __init__(self) -> None:
         self.path = os.path.dirname(os.path.realpath(__file__))
